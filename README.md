@@ -1,38 +1,61 @@
-# Merhaba, Ben [Zeynep] 👋
+# Merhaba, Ben Zeynep! 👋
 
-Modern web mimarileri, backend sistemleri ve interaktif uygulamalar geliştirmeye odaklanan bir **Bilgisayar Mühendisi / Full-Stack Geliştiriciyim**. Ölçeklenebilir servisler tasarlamayı ve temiz kod prensipleriyle uçtan uca çözümler üretmeyi seviyorum.
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=zeynepyyy&label=Profil%20Ziyareti&color=FF5722&style=flat-square" alt="zeynepyyy" />
+</p>
 
----
-
-### 🛠️ Teknolojiler & Araçlar
-
-**Backend & Mimari**  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-**Frontend**  
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![Nuxt.js](https://img.shields.io/badge/Nuxt.js-002E3B?style=for-the-badge&logo=nuxt.js&logoColor=00DC82)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-
-**Oyun / Diğer Araçlar & DevOps**  
-![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+Hem güçlü arka yüz (Backend) sistemlerinin tasarımı, API geliştirme süreçleri hem de modern ön yüz (Front-End) teknolojileriyle kullanıcı dostu, temiz arayüzler tasarlama üzerine odaklanmış bir yazılım geliştiriciyim. Projelerimde sağlam servis mimarileri kurmayı, reaktif yapılar geliştirmeyi ve uçtan uca kaliteli bir kullanıcı deneyimi (UX) sunmayı hedefliyorum
 
 ---
 
-### 📊 GitHub İstatistikleri
+### 💻 Kullandığım Teknolojiler ve Araçlar
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[GITHUB_KULLANICI_ADIN]&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[GITHUB_KULLANICI_ADIN]&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" width="48%" />
+### 💻 Kullandığım Teknolojiler ve Araçlar
+
+<p align="left">
+  <!-- Backend & Database -->
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+
+  <!-- Front-end -->
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue.js" />
+  <img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=flat-square&logo=nuxt.js&logoColor=white" alt="Nuxt" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white" alt="Sass" />
 </p>
 
 ---
 
-### 📬 İletişim
+### 📊 GitHub İstatistiklerim
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/[])
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[z07929678@gmail.com])
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=zeynepyyy&show_icons=true&theme=nord&locale=tr" alt="Zeynep'in GitHub İstatistikleri" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeynepyyy&layout=compact&theme=nord&locale=tr" alt="En Çok Kullanılan Diller" height="150" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zeynepyyy&theme=nord" alt="GitHub Streak" height="150" />
+</p>
+
+---
+
+### 📫 Benimle İletişime Geçin
+
+Proje fikirleri, iş birlikleri veya sadece kahve eşliğinde sohbet etmek için bana aşağıdaki kanallardan ulaşabilirsiniz:
+
+<p align="left">
+  <a href="https://linkedin.com/in/zeynep-yıldız-154a0a309
+
+" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:z07929678@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+---
+
+*“Her gün yeni bir şeyler öğrenmeye ve kod kalitesini bir adım öteye taşımaya odaklanıyorum.”* 🚀
