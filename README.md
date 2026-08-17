@@ -57,5 +57,6 @@ Proje fikirleri, iş birlikleri veya sadece kahve eşliğinde sohbet etmek için
 </p>
 
 ---
+[![github-trophy](https://github-profile-trophy.vercel.app/?username=zeynepyyy)](https://github.com/ryo-ma/github-profile-trophy)
 
 *“Her gün yeni bir şeyler öğrenmeye ve kod kalitesini bir adım öteye taşımaya odaklanıyorum.”* 🚀
