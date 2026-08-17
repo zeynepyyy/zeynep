@@ -31,15 +31,9 @@ Hem güçlü arka yüz (Backend) sistemlerinin tasarımı, API geliştirme süre
 ### 📊 GitHub İstatistiklerim
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=zeynepyyy&show_icons=true&theme=nord&locale=tr" alt="Zeynep'in GitHub İstatistikleri" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeynepyyy&layout=compact&theme=nord&locale=tr" alt="En Çok Kullanılan Diller" height="150" />
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=zeynepyyy&show_icons=true&theme=nord&locale=tr" alt="Zeynep'in GitHub İstatistikleri" height="150" />
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=zeynepyyy&layout=compact&theme=nord&locale=tr" alt="En Çok Kullanılan Diller" height="150" />
 </p>
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zeynepyyy&theme=nord" alt="GitHub Streak" height="150" />
-</p>
-
----
 
 ### 📫 Benimle İletişime Geçin
 
